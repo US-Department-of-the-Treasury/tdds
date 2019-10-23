@@ -37,7 +37,7 @@ Style and symbol names are a compromise between Treasury Digital Design System n
 
 The files in `Fonts/merriweather.zip` and `Fonts/source-code-pro.zip` are from [Google Web Fonts](https://www.google.com/fonts#UsePlace:use/Collection:Source+Code+Pro:400,300,400italic,700,700italic|Merriweather:400,300,400italic,700,700italic), licensed under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL).
 
-* The Source Cans Pro fonts are copyright 2010, 2012 [Adobe Systems Incorporated](http://www.adobe.com/), with Reserved Font Name ’Source’. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+* The Source Sans Pro fonts are copyright 2010, 2012 [Adobe Systems Incorporated](http://www.adobe.com/), with Reserved Font Name ’Source’. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
 
 * The Merriweather fonts are copyright © 2010-2013, [Sorkin Type Co](www.sorkintype.com) with Reserved Font Name ’Merriweather’.
 
