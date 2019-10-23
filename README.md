@@ -1,4 +1,6 @@
-# Treasury Digital Design System
+![Image of TDDS banner](https://repository-images.githubusercontent.com/214237081/8d4b8a80-f5b3-11e9-8be9-d08314457a48)
+
+# Welcome to the Treasury Digital Design System!
 
 This repository hosts editable, open source design files of the [Treasury Digital Design System](https://url-to-come/) for U.S. Department of the Treasury designers or anyone wishing to make use of the UI components or visual style guide in this site. The following file types are available for your use and can be found in their corresponding folders:
 
