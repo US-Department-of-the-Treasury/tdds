@@ -4,6 +4,6 @@ We're so glad you're thinking about contributing to a Treasury open source proje
 
 We are in the process of standardizing our contribution workflow.
 
-# Contact
+# Contact 
 
 If you would like to submit a comment, suggestion, or component idea please email Matthew.Stevenson@treasury.gov.
