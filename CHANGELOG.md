@@ -70,12 +70,3 @@ Renamed several colors to match USWDS 2.0
 Added over 100 icons.
 
 Added support for Invision DSM.
-
-
--------TO DO-------
-
-Annotate spacing around Navigation, Buttons, and other elements.
-
-Design more cards and develop naming/style convention.
-
-Clean up typography art board, separate from spacing section.
