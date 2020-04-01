@@ -59,6 +59,18 @@ Created Color Relationships section on Color art board.
 
 Added over 100 icons as symbols with adjustable colors via layer styles.
 
+# 0.1.6
+
+Fixed an issue where icons were incorrectly identified as masks in the Symbols page.
+
+Deleted license information in README file to eliminate redundancy with LICENSE file.
+
+Renamed several colors to match USWDS 2.0
+
+Added over 100 icons.
+
+Added support for Invision DSM.
+
 
 -------TO DO-------
 

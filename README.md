@@ -32,21 +32,3 @@ Some single-function components, such as buttons, have been turned into symbols 
 Wherever appropriate, we’ve created type styles and layer styles to make these components easier to adapt.
 
 Style and symbol names are a compromise between Treasury Digital Design System naming conventions, U.S. Web Design System CSS naming conventions (which allow us to transition Sketch files more easily into development) and names that make sense in the context of screen design.
-
-## Licenses and attribution
-
-### A few parts of this project are not in the public domain
-
-The files in `Fonts/merriweather.zip` and `Fonts/source-code-pro.zip` are from [Google Web Fonts](https://www.google.com/fonts#UsePlace:use/Collection:Source+Code+Pro:400,300,400italic,700,700italic|Merriweather:400,300,400italic,700,700italic), licensed under the [SIL Open Font License](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL).
-
-* The Source Sans Pro fonts are copyright 2010, 2012 [Adobe Systems Incorporated](http://www.adobe.com/), with Reserved Font Name ’Source’. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
-
-* The Merriweather fonts are copyright © 2010-2013, [Sorkin Type Co](www.sorkintype.com) with Reserved Font Name ’Merriweather’.
-
-### The rest of this project is in the public domain
-
-The rest of this project is in the worldwide [public domain](LICENSE.md).
-
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
