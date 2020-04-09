@@ -21,7 +21,7 @@ We encourage and solicit your input. Please leave any feedback in the project’
 
 You have a few options for working with our color palette: You can either use the color swatches included in the Sketch component file, or you can install the Sketch Palette files. To install the files, follow the directions below, and let us know if you run into any difficulty.
 
-### Sketch
+### Sketch 
 
 * Begin by adding the Sketch palette plugin, which you can find [here](https://github.com/andrewfiorillo/sketch-palettes).
 * Then, from the color picker, select Load Palette... from either the Global Colors or the Document Colors menu. **Please note** that doing this will replace whatever colors are currently in the selected section. If you’re concerned about losing your Global Colors, consider adding our palette to only your Document Colors menu.
