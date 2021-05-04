@@ -2,7 +2,7 @@
 
 # Welcome to the Treasury Digital Design System!
 
-This repository hosts editable, open source design files of the [Treasury Digital Design System](https://url-to-come/) for U.S. Department of the Treasury designers or anyone wishing to make use of the UI components or visual style guide in this site. The following file types are available for your use and can be found in their corresponding folders:
+This repository hosts editable, open source design files of the [Treasury Digital Design System](https://treasury.invisionapp.com/dsm/u-s-department-of-the-treasury/tdds) for U.S. Department of the Treasury designers or anyone wishing to make use of the UI components or visual style guide in this site. The following file types are available for your use and can be found in their corresponding folders:
 
 ## Colors
 - Sketch color palette
@@ -14,8 +14,6 @@ This repository hosts editable, open source design files of the [Treasury Digita
 - Public Sans
 - Merriweather
 - Source Code Pro
-
-We encourage and solicit your input. Please leave any feedback in the project’s primary repo, which you’ll find here: https://url-to-come/
 
 ## Installing the color palettes
 
