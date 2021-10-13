@@ -1,3 +1,7 @@
+# 1.0
+
+Created new sections of content organization in Components. Updated app logo seals to include new programs. Added new components for tabs, accordions, pagination, tables, and sidebar menus.
+
 # 0.1.1
 
 Initial build by internal team.
