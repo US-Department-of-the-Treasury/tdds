@@ -11,9 +11,9 @@
 - [Adobe XD](https://creativecloud.adobe.com/apps/all/desktop) Design Kit ([download](https://github.com/US-Department-of-the-Treasury/tdds/blob/master/Components/tdds-components.xd))
 
 ## Typefaces
-- Public Sans
-- Merriweather
-- Source Code Pro
+- [Public Sans](https://fonts.google.com/specimen/Public+Sans)
+- [Merriweather](https://fonts.google.com/specimen/Merriweather)
+- [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
 ## Colors
 - Sketch Color Palette
@@ -30,4 +30,4 @@ We use type styles and layer styles to make components easier to adapt. Single-f
 
 Our names derive from U.S. Web Design System(USWDS) CSS naming conventions. This helps us with developer handoffs.
 
-Please note that our team uses Sketch. We've translated TDDS into Adobe XD and Figma, but don't maintain the files as of April 2023.
+Please note that our team uses Sketch. We've translated TDDS to Adobe XD and Figma, but do not maintain the files as of April 2023.
