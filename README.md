@@ -2,7 +2,7 @@
 
 # Welcome to the Treasury Digital Design System (TDDS)
 
-TDDS is the United States Department of the Treasury's open-source design system. It contains user experience (UX) guidance and reusable, accessible components. [Read our usage guide](https://treasury.invisionapp.com/dsm/u-s-department-of-the-treasury/tdds) to get started.
+TDDS is the United States Department of the Treasury's open-source design system. It contains user experience (UX) guidance and reusable, accessible components. [Read our user guide](https://treasury.invisionapp.com/dsm/u-s-department-of-the-treasury/tdds) to get started.
 
 The following design files are available for your use and can be found in their corresponding folders:
 
